@@ -1,0 +1,6 @@
+{
+  "feeds": [],
+  "download_directory": "./downloads",
+  "poll_interval_minutes": 30,
+  "notes": "Copy this to config.json for local/private settings. Do not commit config.json."
+}

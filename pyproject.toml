@@ -1,0 +1,14 @@
+[project]
+name = "hayase"
+version = "0.1.0"
+description = "Starter project skeleton for hayase."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.scripts]
+hayase = "hayase.main:main"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
