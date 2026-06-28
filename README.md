@@ -1,5 +1,5 @@
 # Hayase
-testing test
+testing test now complete
 Build the first working slice of this project.
 
 ## Current status
